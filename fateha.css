@@ -1,0 +1,19 @@
+body{
+    background-color:#1E88E5;
+}
+.all-title{
+    background-image: url('/storage/emulated/0/AppProjects/Minshawe/pic/background_3.jpg');
+    background-repeat:no-repeat ;
+    background-size: 100%;
+    color:white;
+}
+    
+.title{
+    color: black;
+}
+.label{
+    font-size: 20px;
+}
+.hr{
+    color:black;
+}
